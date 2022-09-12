@@ -1,0 +1,15 @@
+.admin-order-list {
+    width: 75%;
+    margin: 20px auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+.admin-order-list table, th, td {
+    border: 1px solid;
+
+  }
+
+
+
