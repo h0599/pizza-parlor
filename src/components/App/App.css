@@ -3,12 +3,13 @@
 }
 
 .App-header {
-  background-color: rgb(15, 49, 163);
+  background-color: rgb(132, 170, 245);
   height: 100px;
   padding: 30px 30px 30px 50px;
   color: white;
   margin-bottom: 30px;
   font-size: 1.25rem;
+  font-family: monospace;
   text-align: left;
 }
 

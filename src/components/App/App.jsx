@@ -46,7 +46,7 @@ function App() {
       <div className="App"></div>
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Somali Pizzaria</h1>
+          <h1 className="App-title">Thee Pizza Parlor </h1>
         </header>
 
         <Route path="/" exact>
